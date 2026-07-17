@@ -8,8 +8,7 @@
 
 </div>
 
-Subsurface4D is dedicated to developing an open-source framework that integrates wave physics, fiber-optic sensing, and Bayesian inference. Our goal is to transform subsurface "imaging" into subsurface "monitoring"—generating continuous images that quantify uncertainty and reveal the dynamic changes of the ground beneath us in real time. Applications span groundwater resources, energy exploration, subsurface sequestration, volcanic activity monitoring, and more.
-
+Subsurface4D is an open-source framework designed to advance subsurface imaging to monitoring. We build 4-dimensional, uncertainty-quantified models by integrating wave physics, fiber-optic sensing, and Bayesian inference to track and reveal the Earth's changing interior. Our work provides critical insights for groundwater resources, carbon sequestration, volcanology, and energy exploration and storage.
 ## Reproducible projects
 
 - [bayesian-fwi-flow-prior](https://github.com/subsurface4d/bayesian-fwi-flow-prior)  Bayesian full-waveform monitoring with fluid-flow priors
